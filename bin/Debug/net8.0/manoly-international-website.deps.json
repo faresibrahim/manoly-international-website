@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "manoly-international-website/1.0.0": {
+        "runtime": {
+          "manoly-international-website.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "manoly-international-website/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
