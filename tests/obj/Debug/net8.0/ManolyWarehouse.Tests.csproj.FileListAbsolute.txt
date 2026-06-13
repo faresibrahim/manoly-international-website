@@ -489,3 +489,4 @@ C:\Users\Lenovo\OneDrive\Desktop\.net 2026\manoly-international-website\manoly-i
 C:\Users\Lenovo\OneDrive\Desktop\.net 2026\manoly-international-website\manoly-international-website\tests\obj\Debug\net8.0\ManolyWarehouse.Tests.pdb
 C:\Users\Lenovo\OneDrive\Desktop\.net 2026\manoly-international-website\manoly-international-website\tests\obj\Debug\net8.0\ManolyWarehouse.Tests.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\.net 2026\manoly-international-website\manoly-international-website\tests\obj\Debug\net8.0\ref\ManolyWarehouse.Tests.dll
+C:\Users\Lenovo\OneDrive\Desktop\.net 2026\manoly-international-website\manoly-international-website\tests\obj\Debug\net8.0\ManolyWarehouse.Tests.sourcelink.json
